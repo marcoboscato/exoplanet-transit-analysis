@@ -2,6 +2,8 @@
 
 Photometric analysis of the transits of the hot Jupiter **WASP-12b**, combining ground-based observations from the **TASTE** program (Asiago) with space-based photometry from **TESS** (Sectors 43, 45 and 71).
 
+![Planet's transit](images/transit_example.png)
+
 The workflow goes from raw CCD frames to a calibrated transit model, and finally to a joint Bayesian (MCMC) fit of the model to all the data, from which the planetary and stellar parameters are derived.
 
 ## Workflow
